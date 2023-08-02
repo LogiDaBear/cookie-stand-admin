@@ -1,13 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 .container {
   background-color: #86EEAC;
   padding: 2rem;
   border-radius: 1rem;
   margin-top: 2rem;
 }
-
 h1 {
   color: #333;
   font-size: 2rem;
