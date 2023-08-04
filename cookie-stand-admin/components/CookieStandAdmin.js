@@ -17,7 +17,8 @@ export default function CookieStandAdmin() {
     <div>
       <Head />
       <Header />
-      <Main onFormSubmit={handleFormSubmit} data={cookieStandData} />
+      <Main onFormSubmit={handleFormSubmit} data={cookieStandData}
+      />
       <Footer locations={cookieStandData.length} />
     </div>
   );
