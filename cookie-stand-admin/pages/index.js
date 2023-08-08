@@ -96,4 +96,3 @@ function StandCreateForm({ onCreate }) {
         </form>
     );
 }
-
